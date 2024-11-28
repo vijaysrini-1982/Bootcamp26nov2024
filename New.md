@@ -3,16 +3,26 @@
 
 ## WESCO International, a leading distributor of electrical, industrial, and communications products, operates in a highly competitive and complex supply chain environment. The company serves a broad range of customers, including utilities, industrial plants, contractors, and government organizations. Managing a vast network of suppliers, warehouses, and customers requires efficient logistics, inventory management, and order fulfillment processes.
 
-Wesco International, Inc ,Wesco incorporated and started investing in digital transformation and AI  from past 3.5 years .
-Richard Masulis is the  Digital Transformation Business Leader
-
-Current CEO is John Engel  and it was Founded by  George Westinghouse in 1922 
 
 
+ * Who are the founders of the company?
+   - George Westinghouse - Founded Wesco in 1922 
 
-Wesco intiated AI and digital tansformation due to continous issues with quality and maintence . 
-In order to effectively handle  issues releated to quality and maintence , wesco  intiatied predctive analysis in  AI it  which helped them to predect quality and maintence , the predctive analysis of AI is really amazing .decisions vs predictive it provides predicting about decisions we can make . 
-Co-poilot mode - where in AI provides inputs and we decide about the decision .
+* Current Board of Directors 
+  - John J. Engel – chairman, President & CEO of WESCO International
+  - Matthew J. Espe – Operating Partner of Advent International
+  - Bobby J. Griffin – Former President, International Operations of Ryder System, Inc.
+  - John K. Morgan – Former Chairman, President & CEO of Zep, Inc.[26]
+  - Steven A. Raymund – Former Chairman & CEO of Tech Data Corporation
+  - James L. Singleton – Chairman & CEO of Cürex Group Holdings, LLC.[27]
+  - Easwaran Sundaram – Executive VP and Chief Digital & Technology Officer of JetBlue Airways Corporation
+  - Lynn M. Utter – Principal and Chief Talent Officer, Atlas Holdings[28][29]
+  - Laura K. Thompson – Former Executive Vice President of The Goodyear Tire & Rubber Company.[30]
+
+* How did the idea for the company (or project) come about?
+  Wesco incorporated and started investing in digital transformation and AI  from past 3.5 years .
+  Richard Masulis is the  Digital Transformation Business Leader
+  Wesco intiated AI and digital tansformation due to continous issues with quality and maintence . In order to effectively    handle  issues releated to quality and maintence , wesco  intiatied predctive analysis in  AI it  which helped them to      predict quality and maintence , the predctive analysis of AI is really amazing .decisions vs predictive it provides         predicting about decisions we can make . Co-poilot mode - where in AI provides inputs and we decide about the decision .
 
 
 large amount data AI can analyse and give feedback . yeild and loss production addressed . energy used to make a product .
@@ -35,40 +45,41 @@ Future of manufactrurer should look at technology to be sucessful
  
 
  * How is the company funded? How much funding have they received?
-
- Wesco is funded through the sales related electrical distribution , datacenter set ups and selling Wesco is funded through  $500 million for the Digital Transformation 
+ Wesco is funded through it is sales and services of electrical, industrial, communications, maintenance, repair, and operating (MRO), original equipment manufacturer (OEM) products, construction materials, and shipping. Its total revenue was approximately $22 billion. Wesco digital transformation in  AI is funded through  $500 million  
 
  ## Business Activities
 
  * What specific problem is the company or project trying to solve?
 
- Wesco  addressed the quality and maintence using predictive analysis of AI 
+     Wesco  addressed the quality and maintence using predictive analysis of AI 
 
 
 
  * Who is the company's intended customer? Is there any information about the market size of this set of customers?
 
- Company got more than 150,000 active customers worldwide.Its  customers include commercial and industrial businesses, contractors, government agencies, institutions, telecommunications providers, and utilities.
+    Wesco  got more than 150,000 active customers worldwide.Its  customers include commercial and industrial businesses, contractors, government agencies, institutions, telecommunications providers, and utilities.
 
- * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+ * What solution does this company offer that their competitors do not or cannot offer? 
 
-  With nearly 1.5 million products, end-to-end supply chain services, and leading digital capabilities, WESCO provides innovative solutions to meet customer needs across commercial and industrial businesses, contractors, government agencies, institutions, telecommunications providers, and utilities
+     With nearly 1.5 million products, end-to-end supply chain services, and leading digital capabilities, WESCO provides innovative solutions to meet customer needs across commercial and industrial businesses, contractors, government a 
+      agencies, institutions, telecommunications providers, and utilities
 
-  * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+  * Which technologies are they currently using, and how are they implementing them?
 
-  Currently they are  going with multi cloud approach with majorly from Azure  and AWS  . Azure AI,Databricks,Devops,ADF, Informatica  different data bases  on perm like Teradata,oracle, SQL server and Cloud  Databases like Deltalake,Snowflake,ADLS . 
+      Currently they are  going with multi cloud approach with majorly from Azure  and AWS  . Azure AI,Databricks,Devops,ADF, Informatica  different data bases  on perm like Teradata,oracle, SQL server and Cloud  Databases like     
+       Deltalake,Snowflake,ADLS . 
 
   ## Landscape
 
   * What field is the company in?
 
-  provides electrical, industrial, communications, maintenance, repair, and operating (MRO), original equipment manufacturer (OEM) products, construction materials, and shipping
+     provides electrical, industrial, communications, maintenance, repair, and operating (MRO), original equipment manufacturer (OEM) products, construction materials, and shipping
 
-  * What have been the major trends and innovations of this field over the last 5&ndash;10 years?
+  * What have been the major trends and innovations of this field over the last 5 to 10 years?
 
   * What are the other major companies in this field?
 
-  Terex, W.W. Grainger and Graybar Electric.
+    **Terex, W.W. Grainger and Graybar Electric**
 
   ## Results
 
@@ -89,11 +100,11 @@ Future of manufactrurer should look at technology to be sucessful
   * Why are these technologies appropriate for your solution?
 
 
-  Resources :
-
-  https://en.wikipedia.org/wiki/WESCO_International
-  https://www.digitalcommerce360.com/2024/09/27/wesco-updates-500-million-plan-digital-transformation/
-  https://www.wesco.com/us/en/our-company/history.html#:~:text=Innovation%20has%20been%20in%20Wesco's,Westinghouse%20(1846%2D1914).
-  https://www.wesco.com/us/en/knowledge-hub/articles/ai-and-the-industrial-internet-of-things.html
-  https://www.comparably.com/companies/wesco-89035/competitors
+ ## References :
+   
+ -https://en.wikipedia.org/wiki/WESCO_International
+-https://www.digitalcommerce360.com/2024/09/27/wesco-updates-500-million-plan-digital-transformation/
+-https://www.wesco.com/us/en/ourcompany/history.html#:~:text=Innovation%20has%20been%20in%20Wesco's,Westinghouse%20(1846%2D1914)
+  -https://www.wesco.com/us/en/knowledge-hub/articles/ai-and-the-industrial-internet-of-things.html
+  -https://www.comparably.com/companies/wesco-89035/competitors
 
