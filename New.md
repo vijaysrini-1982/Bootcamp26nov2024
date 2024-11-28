@@ -36,7 +36,7 @@ Future of manufactrurer should look at technology to be sucessful
 
  * How is the company funded? How much funding have they received?
 
- Wesco is funded through  $500 million for the Digital Transformation 
+ Wesco is funded through the sales related electrical distribution , datacenter set ups and selling Wesco is funded through  $500 million for the Digital Transformation 
 
  ## Business Activities
 
