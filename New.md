@@ -54,7 +54,9 @@ Future of manufactrurer should look at technology to be sucessful
    agencies, institutions, telecommunications providers, and utilities.Currently they are  going with multi cloud approach with majorly from Azure  and AWS  . Technologies and services they use from this cloud services are following             Azure AI,Databricks,Devops,ADF, Informatica  different data bases  on perm like Teradata,oracle, SQL server and Cloud  Databases like Deltalake,Snowflake,ADLS . 
   ## Landscape
      Wesco provides electrical, industrial, communications, maintenance, repair, and operating (MRO), original equipment manufacturer (OEM) products, construction materials, and shipping
+  
   * What have been the major trends and innovations of this field over the last 5 to 10 years?
+   
 Distribution and supply chain comanies undergone significant tras
   * What are the other major companies in this field?
 
