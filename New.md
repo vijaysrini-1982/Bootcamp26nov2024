@@ -1,10 +1,7 @@
 
 # WESCO AI Case Study 
 
-## Overview and Origin
-WESCO International, a leading distributor of electrical, industrial, and communications products, operates in a highly competitive and complex supply chain environment. 
-The company serves a broad range of customers, including utilities, industrial plants, contractors, and government organizations. 
-Managing a vast network of suppliers, warehouses, and customers requires efficient logistics, inventory management, and order fulfillment processes.
+## WESCO International, a leading distributor of electrical, industrial, and communications products, operates in a highly competitive and complex supply chain environment. The company serves a broad range of customers, including utilities, industrial plants, contractors, and government organizations. Managing a vast network of suppliers, warehouses, and customers requires efficient logistics, inventory management, and order fulfillment processes.
 
 
 * Name of company
