@@ -1,5 +1,5 @@
 
-## WESCO AI Case Study 
+# WESCO AI Case Study 
 
 ## Overview and Origin
 WESCO International, a leading distributor of electrical, industrial, and communications products, operates in a highly competitive and complex supply chain environment. 
