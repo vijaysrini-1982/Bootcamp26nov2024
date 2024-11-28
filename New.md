@@ -10,9 +10,8 @@ Current CEO is John Engel  and it was Founded by  George Westinghouse in 1922
 
 
 
-
-* How did the idea for the company (or project) come about?
-predecting quality and maintence , the predctive analysis of AI is really amazing .decisions vs predictive it provides predicting about decisions we can make . 
+Wesco intiated AI and digital tansformation due to continous issues with quality and maintence . 
+In order to effectively handle  issues releated to quality and maintence , wesco  intiatied predctive analysis in  AI it  which helped them to predect quality and maintence , the predctive analysis of AI is really amazing .decisions vs predictive it provides predicting about decisions we can make . 
 Co-poilot mode - where in AI provides inputs and we decide about the decision .
 
 
