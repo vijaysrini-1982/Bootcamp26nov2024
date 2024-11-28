@@ -3,20 +3,12 @@
 
 ## WESCO International, a leading distributor of electrical, industrial, and communications products, operates in a highly competitive and complex supply chain environment. The company serves a broad range of customers, including utilities, industrial plants, contractors, and government organizations. Managing a vast network of suppliers, warehouses, and customers requires efficient logistics, inventory management, and order fulfillment processes.
 
+Wesco International, Inc ,Wesco incorporated and started investing in digital transformation and AI  from past 3.5 years .
+Richard Masulis is the  Digital Transformation Business Leader
 
-* Name of company
-
-Wesco International, Inc
-
-* When was the company incorporated?
-Wesco incorporated and started investing from past 3.5 years .
-Richard Masulis - Digital Transformation Business Leader
+Current CEO is John Engel  and it was Founded by  George Westinghouse in 1922 
 
 
-* Who are the founders of the company?
-1922 - George Westinghouse 
-
-Current CEO is John Engel 
 
 
 * How did the idea for the company (or project) come about?
