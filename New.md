@@ -5,13 +5,13 @@
 
 
 
- * Who are the founders of the company?
-   - George Westinghouse - Founded Wesco in 1922 
+ * George Westinghouse - Founded Wesco in 1922 , below are the current board of directors 
 
 * Current Board of Directors 
   - John J. Engel – chairman, President & CEO of WESCO International
   - Matthew J. Espe – Operating Partner of Advent International
   - Bobby J. Griffin – Former President, International Operations of Ryder System, Inc.
+  - Akhash Khurana - EVP,Chief Information Officer and Chief Digital Officer 
   - John K. Morgan – Former Chairman, President & CEO of Zep, Inc.[26]
   - Steven A. Raymund – Former Chairman & CEO of Tech Data Corporation
   - James L. Singleton – Chairman & CEO of Cürex Group Holdings, LLC.[27]
@@ -19,10 +19,10 @@
   - Lynn M. Utter – Principal and Chief Talent Officer, Atlas Holdings[28][29]
   - Laura K. Thompson – Former Executive Vice President of The Goodyear Tire & Rubber Company.[30]
 
-* How did the idea for the company (or project) come about?
-  Wesco incorporated and started investing in digital transformation and AI  from past 3.5 years .
-  Richard Masulis is the  Digital Transformation Business Leader
-  Wesco intiated AI and digital tansformation due to continous issues with quality and maintence . In order to effectively    handle  issues releated to quality and maintence , wesco  intiatied predctive analysis in  AI it  which helped them to      predict quality and maintence , the predctive analysis of AI is really amazing .decisions vs predictive it provides         predicting about decisions we can make . Co-poilot mode - where in AI provides inputs and we decide about the decision .
+  Wesco incorporated and started investing in digital transformation and AI  from past 3.5 years under the leadeship of Akhash Khurana  ,Richard Masulis the  Digital Transformation Business Leader 
+  intiated AI and digital tansformation due to continous issues with quality and maintence .
+  In order to effectively handle issues releated to quality and maintence, wesco intiatied predctive analysis in AI which helped them to predict quality and maintence , the predctive analysis of AI is really amazing .decisions vs predictive it provides predicting about decisions we can make . Co-poilot mode - where in AI provides inputs and we decide about the 
+  decision .
 
 
 large amount data AI can analyse and give feedback . yeild and loss production addressed . energy used to make a product .
@@ -48,33 +48,12 @@ Future of manufactrurer should look at technology to be sucessful
  Wesco is funded through it is sales and services of electrical, industrial, communications, maintenance, repair, and operating (MRO), original equipment manufacturer (OEM) products, construction materials, and shipping. Its total revenue was approximately $22 billion. Wesco digital transformation in  AI is funded through  $500 million  
 
  ## Business Activities
-
- * What specific problem is the company or project trying to solve?
-
-     Wesco  addressed the quality and maintence using predictive analysis of AI 
-
-
-
- * Who is the company's intended customer? Is there any information about the market size of this set of customers?
-
-    Wesco  got more than 150,000 active customers worldwide.Its  customers include commercial and industrial businesses, contractors, government agencies, institutions, telecommunications providers, and utilities.
-
- * What solution does this company offer that their competitors do not or cannot offer? 
-
+     Wesco  addressed the quality and maintence using predictive analysis of AI .
+     Wesco  got more than 150,000 active customers worldwide.Its  customers include commercial and industrial businesses, contractors, government agencies, institutions, telecommunications providers, and utilities.
      With nearly 1.5 million products, end-to-end supply chain services, and leading digital capabilities, WESCO provides innovative solutions to meet customer needs across commercial and industrial businesses, contractors, government a 
-      agencies, institutions, telecommunications providers, and utilities
-
-  * Which technologies are they currently using, and how are they implementing them?
-
-      Currently they are  going with multi cloud approach with majorly from Azure  and AWS  . Azure AI,Databricks,Devops,ADF, Informatica  different data bases  on perm like Teradata,oracle, SQL server and Cloud  Databases like     
-       Deltalake,Snowflake,ADLS . 
-
+   agencies, institutions, telecommunications providers, and utilities.Currently they are  going with multi cloud approach with majorly from Azure  and AWS  . Technologies and services they use from this cloud services are following             Azure AI,Databricks,Devops,ADF, Informatica  different data bases  on perm like Teradata,oracle, SQL server and Cloud  Databases like Deltalake,Snowflake,ADLS . 
   ## Landscape
-
-  * What field is the company in?
-
-     provides electrical, industrial, communications, maintenance, repair, and operating (MRO), original equipment manufacturer (OEM) products, construction materials, and shipping
-
+     Wesco provides electrical, industrial, communications, maintenance, repair, and operating (MRO), original equipment manufacturer (OEM) products, construction materials, and shipping
   * What have been the major trends and innovations of this field over the last 5 to 10 years?
 
   * What are the other major companies in this field?
@@ -90,14 +69,11 @@ Future of manufactrurer should look at technology to be sucessful
   * How is your company performing relative to competitors in the same field?
 
   ## Recommendations
-
-  * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-
-  * Why do you think that offering this product or service would benefit the company?
-
-  * What technologies would this additional product or service utilize?
-
-  * Why are these technologies appropriate for your solution?
+Following would be my recommendations to Wesco distributions: 
+* Expand AI  areas in to Forecast demand ,Personalised marketing,Energy management and  Upskill Employees to leverage AI tools efficiently 
+* Above recommendations will definately  allow employees to foucus on origination goals and customer engagement.
+* Exploring more on AI/ML Predictive insights and optimisation .
+* Efficeftively utilising the open frameworks from apache to process expoenteial growth of data .
 
 
  ## References :
