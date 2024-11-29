@@ -15,8 +15,8 @@
   - Lynn M. Utter – Principal and Chief Talent Officer, Atlas Holdings[28][29]
   - Laura K. Thompson – Former Executive Vice President of The Goodyear Tire & Rubber Company.[30]
 
- >Wesco incorporated and started investing in digital transformation and AI  from past 3.5 years under the leadeship of **Akhash Khurana (CIO) ,Richard Masulis** the  Digital Transformation Business Leader 
- intiated AI and digital tansformation due to continous issues with quality and maintence .In order to effectively handle issues releated to quality and maintence, wesco intiatied predctive analysis in AI which helped them to predict quality and maintence , the predctive analysis of AI is really amazing .decisions vs predictive it provides predicting about decisions we can make . Co-poilot mode - where in AI provides inputs and we decide about the decision .
+ >Wesco incorporated and started investing in digital transformation and AI  from past 3.5 years under the leadership of **Akhash Khurana (CIO) ,Richard Masulis** the  Digital Transformation Business Leader 
+ initiated AI and digital transformation due to continuous issues with quality and maintenance .In order to effectively handle issues related  to quality and maintenance, Wesco initiated predictive analysis  in AI which helped them to predict quality and maintenance , the  predictive  analysis of AI is really amazing .decisions vs predictive it provides predicting about decisions we can make . Co-pilot mode - where in AI provides inputs and we decide about the decision .
 
 
 * Wesco is funded through it is sales and services of electrical, industrial, communications, maintenance, repair, and operating (MRO), original equipment manufacturer (OEM) products, construction materials, and shipping. Its total revenue was approximately $22 billion. Wesco digital transformation in AI is funded through $500 million
