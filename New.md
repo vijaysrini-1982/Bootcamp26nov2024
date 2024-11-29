@@ -15,40 +15,27 @@
   - Lynn M. Utter – Principal and Chief Talent Officer, Atlas Holdings[28][29]
   - Laura K. Thompson – Former Executive Vice President of The Goodyear Tire & Rubber Company.[30]
 
- Wesco incorporated and started investing in digital transformation and AI  from past 3.5 years under the leadeship of **Akhash Khurana (CIO) ,Richard Masulis** the  Digital Transformation Business Leader 
+ >Wesco incorporated and started investing in digital transformation and AI  from past 3.5 years under the leadeship of **Akhash Khurana (CIO) ,Richard Masulis** the  Digital Transformation Business Leader 
  intiated AI and digital tansformation due to continous issues with quality and maintence .In order to effectively handle issues releated to quality and maintence, wesco intiatied predctive analysis in AI which helped them to predict quality and maintence , the predctive analysis of AI is really amazing .decisions vs predictive it provides predicting about decisions we can make . Co-poilot mode - where in AI provides inputs and we decide about the decision .
 
->large amount data AI can analyse and give feedback . yeild and loss production addressed . energy used to make a product .
-lot of customers dont realise unless it is implement it.
-ex : construction building customers. Proven in method in AI , assembled  group of SME's  outside of companises parterned data scientis and data engineers in digital transformation .
-refernce to other companies and use cases they can apply to their company , what is the high impact?, loss of revenue?easiest adapt to impement? feed study ? divie in to data , clean it up no noise .
-run it through ML alogorithirms and you see predectiablity of 80 % and more .that proves out the sucessful.multi step process and  AI and IOT  should go hand in hand. IOT should be in right place .
-Problem : people lossing their jobs , like white collar jobs . how is it going to impact ? we have not seen it as a replacement . Most of the decision support mechanism is what AI help you to make faster and quicker decision with huge/large datanStill you need engineer and supervisor to operate .
-Ex : Autonompus cars , in case of any issue in driving car it would beep or take a decision to apply brake .
-Future of manufactrurer should look at technology to be sucessful
 
- * Wesco is funded through it is sales and services of electrical, industrial, communications, maintenance, repair, and operating (MRO), original equipment manufacturer (OEM) products, construction materials, and shipping. Its total revenue was approximately $22 billion. Wesco digital transformation in  AI is funded through  $500 million  
+* Wesco is funded through it is sales and services of electrical, industrial, communications, maintenance, repair, and operating (MRO), original equipment manufacturer (OEM) products, construction materials, and shipping. Its total revenue was approximately $22 billion. Wesco digital transformation in AI is funded through $500 million
 
  ## Business Activities
-Wesco  addressed the quality and maintence using predictive analysis of AI .Wesco  got more than 150,000 active customers worldwide.Its  customers include commercial and industrial businesses, contractors, government agencies, institutions, telecommunications providers, and utilities.With nearly 1.5 million products, end-to-end supply chain services, and leading digital capabilities, WESCO provides innovative solutions to meet customer needs across commercial and industrial businesses, contractors, governmentmagencies, institutions, telecommunications providers, and utilities.Currently they are  going with multi cloud approach with majorly from Azure  and AWS  . Technologies and services they use from this cloud services are following           Azure AI,Databricks,Devops,ADF, Informatica  different data bases  on perm like Teradata,oracle, SQL server and Cloud  Databases like Deltalake,Snowflake,ADLS . 
+Wesco addressed the quality and maintenance using predictive analysis of AI .Wesco got more than 150,000 active customers worldwide. Its customers include commercial and industrial businesses, contractors, government agencies, institutions, telecommunications providers, and utilities. With nearly 1.5 million products, end-to-end supply chain services, and leading digital capabilities, WESCO provides innovative solutions to meet customer needs across commercial and industrial businesses, contractors, government agencies, institutions, telecommunications providers, and utilities. Currently they are going with multi cloud approach with majorly from Azure and AWS . Technologies and services they use from this cloud services are following Azure AI,Databricks,Devops,ADF, Informatica different data bases on perm like Teradata, oracle, SQL server and Cloud Databases like Deltalake,Snowflake,ADLS .
    
-  ## Landscape
-  Wesco provides electrical, industrial, communications, maintenance, repair, and operating (MRO), original equipment manufacturer (OEM) products, construction materials, and shipping Distribution and supply chain companies undergone significant trasformation with  major trends and innovations of this field over the last 5 to 10 years, driven by advancements in technology , evolving customer expectations , and shifts in global markets.Following are the major trends and invoations which adapated and suceeded Digital Transformation, Consolidation and Mergers ,AI and Machine Learning, IOT Integration, smart buildings and infrastrucure like Data centers Construction  with automation controls,sensors and IOT connected devices.
-  **Terex, W.W. Grainger and Graybar Electric** are major competitors for Wesco distribution 
-
-  ## Results
-
-* implementation of AI driven predictive quality and maintence created business impact in Wesco by  analysing equipment usage and failure trends and minimise downtime and improve asset longetivity .Also, proceesing of large volumes of   
-    data quickly , enabling faster and more informed business decisions. 
-
-* Key metrics for are any organisiations in supply chain and distribution sector are demand  forecasting,route optimisation efficency predictive maintence accuracy cost per order .  Wesco came up with more matured AI alogorithms predict furutre demand based on historical data and market trends by the percentage of  accurate forecasts to actual sales. Routes achieved by AI Algoritrms  lead to reduced travel time and costs. AI analysis of sensor  data allowed accurately predict machine failures. It helped  company to perform 80% better than above metrics compared implementation before AI .
-  * Wesco  positioned itselfs as strong contender in implementing AI solutions its competirors are equally investing on AI to get business adavantage of growing demands .
-  ## Recommendations
+## Landscape
+ Wesco provides electrical, industrial, communications, maintenance, repair, and operating (MRO), original equipment manufacturer (OEM) products, construction materials, and shipping Distribution and supply chain companies undergone significant transformation with major trends and innovations of this field over the last 5 to 10 years, driven by advancements in technology , evolving customer expectations , and shifts in global markets. Following are the major trends and innovations which adapted and succeeded Digital Transformation, Consolidation and Mergers ,AI and Machine Learning, IOT Integration, smart buildings and infrastructure like Data centers Construction with automation controls, sensors and IOT connected devices. Wesco distribution has achieved a breakthrough in its industry with its extensive usage of AI creating a strong competition to its major competitors like **Terex, W.W. Grainger and Graybar Electric**.
+## Results
+* Implementation of AI driven predictive quality and maintenance created business impact in Wesco by analyzing equipment usage and failure trends and minimize downtime and improve asset longevity .Also, processing of large volumes of data quickly , enabling faster and more informed business decisions.
+* Key metrics for are any organizations in supply chain and distribution sector are demand forecasting, route optimization efficiency predictive maintenance accuracy cost per order . Wesco came up with more matured AI algorithms predict future demand based on historical data and market trends by the percentage of accurate forecasts to actual sales. Routes achieved by AI Algorithms lead to reduced travel time and costs. AI analysis of sensor data allowed accurately predict machine failures. It helped company to perform 80% better than above metrics compared implementation before AI .
+* Wesco positioned itself as strong contender in implementing AI solutions its competitors are equally investing on AI to get business advantage of growing demands .
+## Recommendations
 Following would be my recommendations to Wesco distributions: 
-* Expand AI  areas in to Forecast demand ,Personalised marketing,Energy management and  Upskill Employees to leverage AI tools efficiently 
-* Above recommendations will definately  allow employees to foucus on origination goals and customer engagement.
-* Exploring more on AI/ML Predictive insights and optimisation .
-* Efficeftively utilising the open frameworks from apache to process expoenteial growth of data .
+* Expand AI areas in to Forecast demand ,Personalized marketing, Energy management and Upskill Employees to leverage AI tools efficiently
+* Above recommendations will definitely allow employees to focus on origination goals and customer engagement.
+* Exploring more on AI/ML Predictive insights and optimization .
+* Effectively utilizing the open frameworks from Apache to process exponential growth of data .
 
 
  ## References :
